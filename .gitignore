@@ -1,0 +1,28 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+# Personal saves, dialogue traces and backups
+lonk_world*.json
+lonk_semantic_events*.jsonl
+*.log
+*.bak
+# Credentials and local connection settings
+.env
+.env.*
+!.env.example
+youtube.json
+youtube_credentials.json
+*credentials*.json
+*token*.json
+*.key
+*.pem
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
