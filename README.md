@@ -1,4 +1,4 @@
-# YouTubeLonk ??
+# YouTubeLonk 
 
 A terminal civilization simulator full of little Lonks who learn words, trade
 items, form relationships, invent cultural phrases, and build increasingly
